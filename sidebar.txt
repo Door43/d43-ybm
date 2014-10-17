@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ybm:home|Door43 (ybm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ybm|d43-ybm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ybm/archive/master.zip|d43-ybm.zip]]
+
+**Recent Changes**
+{{changes>ns = ybm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ybm|Ethnologue data]]
+
